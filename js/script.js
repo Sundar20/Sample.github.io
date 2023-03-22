@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function () {
   document.querySelector('body').classList.add('no-webp');
   }
   });*/
-  <script id="pega-wm-chat" src="https://widget.use1.chat.pega.digital/f23028e9-2adc-42b7-ad5a-f7d97db37890/widget.js"></script>
+  <script id="pega-wm-chat" src="https://widget.use1.chat.pega.digital/f10b1b53-f492-4302-95e4-4f0515ef749c/widget.js"></script> 
 
   feather.replace();
 
